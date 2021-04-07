@@ -6,4 +6,6 @@ The controller is intentionally not "optimal". The first assignment is to make t
 
 Check out the video describing some of the background for line following (in Danish): https://youtu.be/pxXkpFztGrk
 
+![Line follower splash](splash.png)
+
 - Karl D. Hansen
